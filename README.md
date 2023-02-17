@@ -1,6 +1,6 @@
-# projetoDevLik
+# Projeto DevLik
 
-Projeto da Rocketseat Front-end DevLinks
+## Projeto da Rocketseat Front-end DevLinks
 
 Criado primeiro o **HTML** que é a estrutura, **CSS** é a beleza e a **JavaScript** é a inteligência.  
 
