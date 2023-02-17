@@ -4,7 +4,8 @@
 
 Criado primeiro o **HTML** que é a estrutura, **CSS** é a beleza e a **JavaScript** é a inteligência.  
 
-Cartão de visita ou seja curriculo vitual onde você pode esta acessando e entrando nas paginas principais onde encontra o 
+Cartão de visita ou seja curriculo vitual onde você pode esta acessando e entrando nas paginas principais onde encontra:
+
 * **Linkedin** informações sobre minhas atividades profissionais.
 * **GitHub** traz informações sobre os meus códigos de estudo e praticas em front-end, back-end e QA.
 * **Rocketseat** mostra o site da plataforma de ensino de programação, também fornece cursos gratuidos como a DIO e seus bootcamps.
