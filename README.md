@@ -12,6 +12,15 @@ Cartão de visita ou seja curriculo vitual onde você pode esta acessando e entr
 
 
 
+
+![image](https://user-images.githubusercontent.com/106537496/219759367-202c720a-920c-4a97-b2c9-45812b09d308.png)
+
+
+
+
+
+
+
 Aluna Dev Daniela Velter
 
 
