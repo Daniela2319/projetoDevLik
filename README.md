@@ -1,34 +1,56 @@
-# Projeto DevLik
+<h1 align="center"> DevLinks </h1>
 
-## Projeto da Rocketseat Front-end DevLinks
+<p align= "center">
+Evento exclusivo e gratuito, promovido pela Rocketseat para
+ensino de tecnologias WEB. </p>
 
-Criado primeiro o **HTML** que é a estrutura, **CSS** é a beleza e a **JavaScript** é a inteligência.  
+<p align="center">
+<a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;
+&nbsp;&nbsp;
+<a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;
+&nbsp;&nbsp;
+<a href="#memo-licença">Licença</a>
+</p>
 
-Cartão de visita ou seja curriculo vitual onde você pode esta acessando e entrando nas paginas principais onde encontra:
+<p align="center">
+<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-* **Linkedin** informações sobre minhas atividades profissionais.
-* **GitHub** traz informações sobre os meus códigos de estudo e praticas em front-end, back-end e QA.
-* **Rocketseat** mostra o site da plataforma de ensino de programação, também fornece cursos gratuidos como a DIO e seus bootcamps.
-* **Blog de GFT** mostra contéudo sobre as informações do dia a dia da tecnologia.
+<br>
 
+<p align="center">
+<img alt="Projeto Dev Links" src="https://user-images.githubusercontent.com/106537496/219901974-24ba1c05-f39d-4f2a-af30-9d3c95c64717.png" width="100%"></p>
+<br>
 
+## 🚀 Tecnologias
 
+Esse projeto foi desenvolvidos com as seguintes tecnologias:
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
+  
+<br>
+  
+## 💻 Projeto
 
-![image](https://user-images.githubusercontent.com/106537496/219900417-3c500d2f-0d30-45fb-a6d7-880623ae3bd1.png)
+O DevLinks é um agregador de links para usar como cartão de visitas online.
 
+<br>
 
+## 📑 Layout
 
+Você pode visualizar o layout no projeto através [DESSE LINK](https://www.figma.com/fileMF894TdzM99Fg9Ssu4KyMq/DevLinks-(Copy)?node-id=1%3A113&t=8x94o7ecTaQMC2CS-1/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+<br>
 
+## :memo: Licença
 
+Esse projeto está sob a licença MIT
 
+---
 
-Aluna Dev Daniela Velter
-
-
- Mayk Brito 
-
-Educador da Rocketseat
+Feito com 🖤 by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
 
 
