@@ -18,7 +18,7 @@ ensino de tecnologias WEB. </p>
 <br>
 
 <p align="center">
-<img alt="Projeto Dev Links" src="./.github/capa.png" width="100%"></p>
+<img alt="Projeto Dev Links" src="https://user-images.githubusercontent.com/106537496/219901974-24ba1c05-f39d-4f2a-af30-9d3c95c64717.png" width="100%"></p>
 <br>
 
 ## 🚀 Tecnologias
